@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.env
+.env.*
+!.env.example
+private/
+secrets/
+*.key
+*.pem
