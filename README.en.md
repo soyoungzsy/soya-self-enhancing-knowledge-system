@@ -75,3 +75,9 @@ Back up the complete personal vault before applying templates or migrations. Kee
 For broken links, verify paths in your copied vault; for AI not following rules, check the host's supported configuration mechanism and workspace scope. Report sanitized version/environment/reproduction information; never upload private content. See [SECURITY.md](SECURITY.md).
 
 Repository checks: `python3 scripts/privacy_scan.py .` and `python3 -m unittest discover -s tests -v`. Actual results and release status must be recorded separately; source availability is not a formal release or end-to-end validation certificate. [MIT](LICENSE).
+
+## Sources and acknowledgements
+
+See [sources](SOURCES.md) for original authors, references, dependencies and licenses. AI rewriting does not establish original authorship; required third-party notices remain in applicable downloads.
+
+Version: 0.1.1 · [Release / 固定下载](https://github.com/soyoungzsy/soya-self-enhancing-knowledge-system/releases/tag/v0.1.1)

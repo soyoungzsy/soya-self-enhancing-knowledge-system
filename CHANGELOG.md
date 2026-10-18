@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.1 — 2026-10-18
+
+- 补齐来源说明、固定下载与非技术入口验收；保留现有知识模板。
+- Publish a fixed version with plain-language onboarding, reviewed source attribution and maintenance evidence.
+
 ## 0.1.0 — 2026-09-20
 
 - Published the first complete methodology for a local-first AI knowledge system.
